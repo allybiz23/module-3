@@ -1,0 +1,24 @@
+.image-container img {
+    height: 70px;
+    width: 50px;
+}
+
+p {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+strong {
+    color: brown;
+}
+
+strong.price:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+.names {
+    font-family: sans-serif;
+    font-size: larger;
+
+}
